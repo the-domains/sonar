@@ -1,0 +1,28 @@
+name: SONAR
+favicon: null
+layout_spectrum: 0.3523973731789738
+typography_spectrum: 0.2598900832235813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.02612052601762116
+  lightness: 0.14008413767442107
+  saturation: 0.6102450683247298
+  rhythmicContrast: 0.041384640615433455
+purpose: []
